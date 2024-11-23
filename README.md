@@ -20,10 +20,9 @@ Hi I am Azmir.
 
 💬 I know that my current knowledge is becoming outdated for the modern era, and that's why I plan to learn new things. My goal is to learn:
 
-| Rank | Framework         |
-|-----:|-------------------|
-|     1| React.js          |
-|     2| Node.js           |
+| Rank | Item                           |
+|-----:|--------------------------------|
+|     1| Dart, Flutter, Ionic Framework |
 
 I do not know how but i try to learn by myself first.
 
